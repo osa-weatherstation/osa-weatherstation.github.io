@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
 OSA Weather Station is started to create an easy open source project for a mixed group. Every one is doing something he's interested in. You can join us once a month on a Wednesday and improve your skills if you want. Interested? [Take a look](https://open-source.academy/about/).
 
 ## Goal weatherstation
